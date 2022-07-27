@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-right-22
-=======
-right-23
->>>>>>> 2fae49d79107a2d5c8f68c13e707dc4058ce5b79
+right 22
